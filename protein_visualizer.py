@@ -176,4 +176,4 @@ while (contd == 0):
     
 
 
-    contd= int(input("Press 0 to proceed to the main menu, \n Hit 1 to exit.\n"))   
+    contd= int(input("Press 0 to proceed to the main menu, \n Hit 1 to exit\n"))   
